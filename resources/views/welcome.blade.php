@@ -54,21 +54,21 @@
                                 <div class="form-group row">
                                     <label for="full_name" class="col-md-4 col-form-label text-md-right">Full Name</label>
                                     <div class="col-md-6">
-                                        <input type="text" id="full_name" class="form-control" name="full-name">
+                                        <input type="text" id="full_name" class="form-control" name="name">
                                     </div>
                                 </div>
 
                                 <div class="form-group row">
                                     <label for="email_address" class="col-md-4 col-form-label text-md-right">E-Mail Address</label>
                                     <div class="col-md-6">
-                                        <input type="email" id="email_address" class="form-control" name="email-address">
+                                        <input type="email" id="email" class="form-control" name="email">
                                     </div>
                                 </div>
 
                                  <div class="form-group row">
-                                    <label for="email_address" class="col-md-4 col-form-label text-md-right">E-Mail Address</label>
+                                    <label for="email_address" class="col-md-4 col-form-label text-md-right">Idea</label>
                                     <div class="col-md-6">
-                                          <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                                          <textarea name="idea" class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                                     </div>
                                 </div>
 
