@@ -72,7 +72,6 @@
                                     </div>
                                 </div>
 
-
                                     <div class="col-md-6 offset-md-4">
                                         <button type="submit" class="btn btn-primary">
                                         Register
@@ -80,8 +79,11 @@
                                     </div>
                                 </div>
                             </form>
+                             Number of idea: {{$count}}
+
                         </div>
                     </div>
+
             </div>
         </div>
     </div>
